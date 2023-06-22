@@ -49,3 +49,23 @@ For example:
 ```
 
 You can start server/client applications in any order.
+
+## Citing
+
+If the code is found useful, we would be appreciated if our paper can be cited with the following bibtex format 
+
+```
+@inproceedings{tung2023maple,
+      author = {Tung Le and and Thang Hoang},
+      title = {MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust},
+      year = {2023},
+      url = {},
+      doi = {},
+      booktitle = {Privacy Enhancing Technologies Symposium (PETS) 2023},
+}
+```
+
+
+# Further Information
+For any inquiries, bugs, and assistance on building and running the code, please contact me at [tungle@vt.edu](mailto:tungle@vt.edu?Subject=[PORLA]%20Inquiry).
+
