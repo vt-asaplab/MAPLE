@@ -70,7 +70,7 @@ If the code is found useful, we would be appreciated if our paper can be cited w
       url = {},
       journal = {Proceedings on Privacy Enhancing Technologies Symposium (PETS)},
       year = {2023},
-      publisher={Sciendo}
+      publisher = {Sciendo}
 }
 ```
 
