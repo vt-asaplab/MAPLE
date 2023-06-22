@@ -57,6 +57,8 @@ For example:
 
 You can start server/client applications in any order.
 
+To measure document update performance, comment the line ``#define RUN_SEARCH      1`` in both **Client/Client.cpp** and **Server/Server.cpp** then rebuild and run. 
+
 ## Citing
 
 If the code is found useful, we would be appreciated if our paper can be cited with the following bibtex format 
