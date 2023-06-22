@@ -60,7 +60,7 @@ You can start server/client applications in any order.
 To measure document update performance, comment the line ``#define RUN_SEARCH      1`` in both **Client.cpp** and **Server.cpp** then rebuild and run. 
 
 ## Configuring Number of Servers:
-Change the constant defined at line 23 ``const int nP          = 2;`` in file **OMAT.hpp** and at line 21 in file **Client.hpp** then recompile both Server and Client.
+Change the constant defined at line 23 ``const int nP          = 2;`` in file **OMAT.hpp**, and at line 21 in file **Client.hpp** then recompile both Server and Client.
 
 ## Citing
 
