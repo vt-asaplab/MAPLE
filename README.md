@@ -20,9 +20,11 @@ sudo ./auto_setup.sh
 
 ## Testing
 1. Create database and copy it into the ``Client`` folder.
+```
 $ cd BloomFilterKeywordSearch
 $ ./BloomFilterKeywordSearch
 $ cp omat.bin ../Client/
+```
 
 3. Launch server:
 ```
