@@ -65,15 +65,14 @@ If the code is found useful, we would be appreciated if our paper can be cited w
 
 ```
 @inproceedings{tung2023maple,
-      author = {Tung Le and and Thang Hoang},
+      author = {Tung Le and Thang Hoang},
       title = {MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust},
-      year = {2023},
       url = {},
-      doi = {},
-      booktitle = {Privacy Enhancing Technologies Symposium (PETS) 2023},
+      journal = {Proceedings on Privacy Enhancing Technologies Symposium (PETS)},
+      year = {2023},
+      publisher={Sciendo}
 }
 ```
-
 
 # Further Information
 For any inquiries, bugs, and assistance on building and running the code, please contact me at [tungle@vt.edu](mailto:tungle@vt.edu?Subject=[PORLA]%20Inquiry).
