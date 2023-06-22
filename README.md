@@ -78,7 +78,6 @@ To run experiments with EC2 instances, we need to change the IP loopback ```127.
 ```
 const static char *IP[] = {""
                           , "127.0.0.1"
-                          , "127.0.0.1"
                           , "127.0.0.1"}; 
 ```
 
