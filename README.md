@@ -17,3 +17,33 @@ You can run the script file **auto_setup.sh** to automatically install the requi
 ```
 sudo ./auto_setup.sh
 ```
+
+## Testing
+
+1. Launch server:
+```
+$ cd Server
+$ ./Server <Server_ID> <Server_Port> 
+```
+
+For example, we launch server 1:
+```
+./Server 1 12345
+```
+Then launch server 2:
+```
+./Server 2 12345
+```
+
+2. Launch client:
+```
+$ cd Client
+$ ./Client [-b <Bloom_Filter_Size>] [-n <Number_of_Documents>]
+```
+
+The default parameters: Bloom_Filter_Size is 16384, Number_of_Documents is 65536. 
+
+For example: 
+```
+./Client -b 1120 -n 1024
+```
