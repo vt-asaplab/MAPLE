@@ -74,7 +74,7 @@ Change the constant defined at line 23 ``const int nP          = 2;`` in file **
 ## Configuring IP Addresses:
 To run experiments with EC2 instances, we need to change the IP loopback ```127.0.0.1``` to the IP addresses of EC2 servers as follows. 
 
-1. Server: add/modify servers' IP addresses from line 13 in file **emp_lib/emp_agmpc/cmpc_config.h** and recompile Server.
+1. Server: add/modify servers' IP addresses from line 13 in file **OMAT/EMP_Toolkit/emp_agmpc/cmpc_config.h** and recompile Server.
 ```
 const static char *IP[] = {""
                           , "127.0.0.1"
@@ -82,7 +82,7 @@ const static char *IP[] = {""
                           , "127.0.0.1"}; 
 ```
 
-2. Client: add/modify servers' IP addresses at line 91 ``string ip_addresses[nP] = {"127.0.0.1", "127.0.0.1"};`` in file **Client/Client.cpp** and recompile Client.
+2. Client: add/modify servers' IP addresses at line 91 ``string ip_addresses[nP] = {"127.0.0.1", "127.0.0.1"};`` in file **Client/Client.hpp** and recompile Client.
    
 ## Citing
 
