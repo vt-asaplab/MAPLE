@@ -47,3 +47,5 @@ For example:
 ```
 ./Client -b 1120 -n 1024
 ```
+
+You can start server/client applications in any order.
