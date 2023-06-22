@@ -25,7 +25,7 @@ $ cd BloomFilterKeywordSearch
 $ ./BloomFilterKeywordSearch
 $ cp omat.bin ../Client/
 ```
-The configuration of Bloom filter and database size can be modified by changing parameters in file **BloomFilterKeywordSearch/Preprocessing.h**. 
+The configuration of Bloom filter and database size can be modified in **Preprocessing.h** then rebuild. 
 
 2. Launch server:
 ```
