@@ -18,6 +18,15 @@ You can run the script file **auto_setup.sh** to automatically install the requi
 sudo ./auto_setup.sh
 ```
 
+# Build & Compile
+
+Go to the folder **Server** and folder **Client** then execute:
+``` 
+make clean
+make
+```
+This is going to create executable files *Server* in **Server** folder and *Client* in **Client** folder.
+
 ## Testing
 1. Create database and copy it into the ``Client`` folder.
 ```
