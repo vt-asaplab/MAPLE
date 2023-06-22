@@ -19,8 +19,12 @@ sudo ./auto_setup.sh
 ```
 
 ## Testing
+1. Create database and copy it into the ``Client`` folder.
+$ cd BloomFilterKeywordSearch
+$ ./BloomFilterKeywordSearch
+$ cp omat.bin ../Client/
 
-1. Launch server:
+3. Launch server:
 ```
 $ cd Server
 $ ./Server <Server_ID> <Server_Port> 
@@ -35,7 +39,7 @@ Then launch server 2:
 ./Server 2 12345
 ```
 
-2. Launch client:
+3. Launch client:
 ```
 $ cd Client
 $ ./Client [-b <Bloom_Filter_Size>] [-n <Number_of_Documents>]
