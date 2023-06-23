@@ -32,7 +32,7 @@ This is going to create executable files *Server* in **Server** folder and *Clie
 ```
 $ cd BloomFilterKeywordSearch
 $ ./BloomFilterKeywordSearch
-$ cp omat.bin ../Client/
+$ cp omat.bin ../OMAT/Client/
 ```
 The configuration of Bloom filter and database size can be modified in **Preprocessing.h** then rebuild. 
 
