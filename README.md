@@ -38,7 +38,7 @@ The configuration of Bloom filter and database size can be modified in **Preproc
 
 2. Launch server:
 ```
-$ cd Server
+$ cd OMAT/Server
 $ ./Server <Server_ID> <Server_Port> 
 ```
 
@@ -53,7 +53,7 @@ Then launch server 2:
 
 3. Launch client:
 ```
-$ cd Client
+$ cd OMAT/Client
 $ ./Client [-b <Bloom_Filter_Size>] [-n <Number_of_Documents>]
 ```
 
