@@ -91,10 +91,10 @@ If the code is found useful, we would be appreciated if our paper can be cited w
 @inproceedings{tung2023maple,
       author = {Tung Le and Thang Hoang},
       title = {MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust},
-      url = {},
-      journal = {Proceedings on Privacy Enhancing Technologies Symposium (PETS)},
-      year = {2023},
-      publisher = {Sciendo}
+      booktitle = {Proceedings on Privacy Enhancing Technologies Symposium (PETS)},
+      issue={4},
+      pages={},
+      year={2023}
 }
 ```
 
