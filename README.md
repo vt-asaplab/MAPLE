@@ -1,4 +1,4 @@
-# MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust
+# MAPLE: Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust
 
 ![x86](https://github.com/vt-asaplab/MAPLE/blob/main/OMAT/EMP_Toolkit/emp-tool/utils/workflows/x86/badge.svg)
 ![arm](https://github.com/vt-asaplab/MAPLE/blob/main/OMAT/EMP_Toolkit/emp-tool/utils/workflows/arm/badge.svg)
