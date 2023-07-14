@@ -3,7 +3,7 @@
 ![x86](https://github.com/vt-asaplab/MAPLE/blob/main/OMAT/EMP_Toolkit/emp-tool/utils/workflows/x86/badge.svg)
 ![arm](https://github.com/vt-asaplab/MAPLE/blob/main/OMAT/EMP_Toolkit/emp-tool/utils/workflows/arm/badge.svg)
 
-This is our full implementation for our [MAPLE paper] (PETS 2023, Issue 4).
+This is our full implementation for our [MAPLE paper](https://petsymposium.org/2023/files/papers/issue4/popets-2023-0105.pdf) (PETS 2023, Issue 4).
 
 **WARNING**: This is an academic proof-of-concept prototype and has not received a careful code review. This implementation is NOT ready for production use.
 
