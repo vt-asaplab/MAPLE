@@ -89,7 +89,7 @@ If the code is found useful, we would be appreciated if our paper can be cited w
 
 ```
 @inproceedings{le2023maple,
-      title={MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust},
+      title={{MAPLE: A Metadata-Hiding Policy-Controllable Encrypted Search Platform with Minimal Trust}},
       author={Tung Le and Thang Hoang},
       booktitle={Proceedings on Privacy Enhancing Technologies Symposium (PETS)},
       issue={4},
